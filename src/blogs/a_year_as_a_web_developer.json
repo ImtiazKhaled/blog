@@ -1,0 +1,80 @@
+{
+  "id": "a_year_as_a_web_developer",
+  "header": "A Year as a Web Developer",
+  "languages": [],
+  "theme": {
+    "link-color": "red",
+    "text-color": "black",
+    "background-color": "whitesmoke",
+    "link-color-highlight": "maroon"
+  },
+  "content": [
+    {
+      "type": "picture",
+      "data": {
+        "alt": "imtiaz_face",
+        "face": "https://storage.googleapis.com/imkkhld/blog/ayoka_logo.png",
+        "face_hover": "https://storage.googleapis.com/imkkhld/blog/ayoka_logo.png",
+        "face_click": "https://storage.googleapis.com/imkkhld/blog/ayoka_logo.png",
+        "face_click_extra": "https://storage.googleapis.com/imkkhld/blog/ayoka_logo.png"
+      }
+    },
+    {
+      "type": "text-paragraph",
+      "data": {
+        "links": [
+          {"linkText": "Ayoka Systems", "link": "https://www.ayokasystems.com/" }
+        ],
+        "text": "January 6th, 2020, the day I started my journey with Ayoka Systems. It would be the first time I worked at a tech company in the US. I went into the office dressed up and nervous. Upon arrival, I was put at ease when I met four other new interns. We were presented with documents to fill up and soon after learned about the culture of the company from the HR Manager.",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "text-paragraph",
+      "data": {
+        "links": [],
+        "text": "We were given a warm welcome and had someone walk us through the development process and workflow. Before I knew it, I was was working on projects with tens of thousands of lines of code. I was using technology I had never used before. I was designing documentation for projects that would go on for years.",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "text-paragraph",
+      "data": {
+        "links": [
+          {"linkText": "VueJS", "link": "https://vuejs.org/" }
+        ],
+        "text": "It was overwhelming at first, but as I got used to the tech stack, and the patterns, everything started to make more sense. I was growing at an exponential rate and was learning all sorts of new things. One specific week I was assigned the task of building upon an existing dashboard with VueJS, a framework foreign to me at that time. By the end of that week, I had earned myself the title of Top Developer.",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "text-paragraph",
+      "data": {
+        "links": [
+          {"linkText": "Ayoka", "link": "https://www.ayokasystems.com/" }
+        ],
+        "text": "About four months into my internship was when the pandemic struck. Ayoka was quick to respond and transition online. Both remote and in-person, I felt like I belonged and had a blast working through new problems every day. ",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "text-paragraph",
+      "data": {
+        "links": [
+          {"linkText": "Ayoka", "link": "https://www.ayokasystems.com/" }
+        ],
+        "text": "The time I spend at Ayoka, and with the team will be a time I look back on and cherish. Now more then ever, I'm excited to graduate and embrace what my career holds for me.",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "text-paragraph",
+      "data": {
+        "links": [],
+        "text": "Check out my social media (or resume).",
+        "type": "paragraph"
+      }
+    }
+  ]
+}
+  

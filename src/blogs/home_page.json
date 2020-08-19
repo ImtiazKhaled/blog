@@ -1,0 +1,50 @@
+{
+    "header": "My first blog of many hoping you enjoy the read! If you have any feedback, feel free to contact me through my social media (links below) or shoot me an email.",
+    "theme": {
+        "link-color": "orange",
+        "text-color": "black",
+        "background-color": "whitesmoke",
+        "link-color-highlight": "darkorange"
+    },
+    "blogs": [
+        {
+            "id": "a_year_as_a_web_developer",
+            "name": "A Year as a Web Developer",
+            "img_src": "https://storage.googleapis.com/imkkhld/blog/ayoka_logo.png",
+            "author": "Imtiaz Khaled",
+            "author_img": "https://storage.googleapis.com/imkkhld/faces/imtiaz/face.png",
+            "read_time": "1"
+        }
+    ],
+    "social_links": {
+        "type": "social-links",
+        "data": {
+            "links": [
+                {
+                "type": "github",
+                "link": "https://github.com/ImtiazKhaled"
+                },
+                {
+                "type": "linkedin",
+                "link": "https://www.linkedin.com/in/imtiazkhaled/"
+                },
+                {
+                "type": "devpost",
+                "link": "https://devpost.com/ImtiazMujtabaKhaled"
+                },
+                {
+                "type": "blazeoj",
+                "link": "https://blazeoj.com/u/ImtiazKhaled"
+                },
+                {
+                "type": "mail",
+                "link": "mailto://imtiazkhaled07@gmail.com"
+                },
+                {
+                  "type": "resume",
+                  "link": "https://storage.googleapis.com/imkkhld/portfolio-site/imtiaz-khaled-resume.pdf"
+                }
+            ]
+        }
+    }
+}
