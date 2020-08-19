@@ -13,10 +13,6 @@ const BlogCard = (props: any) => {
             <Card
                 hoverable
                 cover={<img alt={blog.id} src={blog.img_src} />}
-                actions={[
-                    <EyeOutlined key="view" />,
-                    <LikeOutlined key="like" />,
-                ]}
             >
                 <Card.Meta
                     avatar={<Avatar size={65} src={blog.author_img} />}
