@@ -1,1 +1,1 @@
-## This is my website :) check it out [here](http://imtiazkhaled.com/)
+## This is my website :) check it out [here](https://blog.imtiazkhaled.com/)
